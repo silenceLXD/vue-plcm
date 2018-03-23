@@ -11,10 +11,10 @@
 	export default {
 		name: 'app',
 		components: {
-		}/*,
+		},
 		created: function () {
 			this.$router.replace('/login')
-		}*/
+		}
 	}
 </script>
 
